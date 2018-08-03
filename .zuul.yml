@@ -1,4 +1,5 @@
 ui: mocha-bdd
+concurrency: 2
 browsers:
   - name: chrome
     version: latest
