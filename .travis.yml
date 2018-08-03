@@ -5,6 +5,8 @@ node_js:
   - 0.12
   - 4
   - 6
+  - 8
+  - 10
 before_install:
   - "test $TRAVIS_NODE_VERSION != '0.8' || npm install -g npm@2.x"
 script:
