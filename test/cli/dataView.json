@@ -1,0 +1,8 @@
+{
+  "stooges": [
+    { "name": "Moe" },
+    { "name": "Larry" },
+    { "name": "Curly" }
+  ],
+  "label": "test"
+}
